@@ -16,7 +16,7 @@
     "@nuxtjs/dotenv": "^1.4.0",
     "axios": "^0.19.1",
     "npm": "^6.13.6",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "vuetify": "^2.2.3"
   },
   "devDependencies": {
